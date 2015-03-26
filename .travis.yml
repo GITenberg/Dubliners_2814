@@ -1,0 +1,9 @@
+language: ruby
+before_install:
+  - gem install asciidoctor
+branches:
+  only:
+  - master
+script: asciidoctor -d book 2814.asciidoc -o 2814_gen.html
+addons:
+    artifacts: true
