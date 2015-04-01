@@ -112,14 +112,14 @@ the shutters were up. A crape bouquet was tied to the doork-nocker with
 ribbon. Two poor women and a telegram boy were reading the card pinned
 on the crape. I also approached and read:
 
-[quote]
-____
+[literal]
+....
     July 1st, 1895
     The Rev. James Flynn (formerly of
     S. Catherine’s Church, Meath Street),
     aged sixty-five years.
     R. I. P.
-____
+....
 
 The reading of the card persuaded me that he was dead and I was
 disturbed to find myself at check. Had he not been dead I would have
@@ -3485,11 +3485,11 @@ the paper from his pocket, read the paragraph again by the failing light
 of the window. He read it not aloud, but moving his lips as a priest
 does when he reads the prayers Secreto. This was the paragraph:
 
-[quote]
-____
+[literal]
+....
                DEATH OF A LADY AT SYDNEY PARADE
                        A PAINFUL CASE
-____
+....
 
 
 Today at the City of Dublin Hospital the Deputy Coroner (in the absence
@@ -3675,13 +3675,13 @@ pockets. He took out a pack of thin pasteboard cards.
 
 He selected one of the cards and read what was printed on it:
 
-[quote]
-____
+[literal]
+....
       MUNICIPAL ELECTIONS
            ————
       ROYAL EXCHANGE WARD
            ————
-____
+....
 
 Mr. Richard J. Tierney, P.L.G., respectfully solicits the favour of your
 vote and influence at the coming election in the Royal Exchange Ward.
@@ -4329,11 +4329,11 @@ Mr. Hynes hesitated a little longer. Then amid the silence he took off
 his hat, laid it on the table and stood up. He seemed to be rehearsing
 the piece in his mind. After a rather long pause he announced:
 
-[quote]
-____
+[literal]
+....
                        THE DEATH OF PARNELL
                         6th October, 1891
-____
+....
 
 
 He cleared his throat once or twice and then began to recite:
