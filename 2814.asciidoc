@@ -114,11 +114,11 @@ on the crape. I also approached and read:
 
 [literal]
 ....
-    July 1st, 1895
-    The Rev. James Flynn (formerly of
-    S. Catherine’s Church, Meath Street),
-    aged sixty-five years.
-    R. I. P.
+July 1st, 1895
+The Rev. James Flynn (formerly of
+S. Catherine’s Church, Meath Street),
+aged sixty-five years.
+R. I. P.
 ....
 
 The reading of the card persuaded me that he was dead and I was
@@ -1782,9 +1782,9 @@ Mooney, the Madam’s daughter, would also sing. She sang:
 _____
 [verse]
 ____
-           I’m a... naughty girl.
-             You needn’t sham:
-             You know I am.
+I’m a... naughty girl.
+  You needn’t sham:
+  You know I am.
 ____
 _____
 
@@ -2525,10 +2525,10 @@ to read the first poem in the book:
 _____
 [verse]
 ____
-     Hushed are the winds and still the evening gloom,
-     Not e’en a Zephyr wanders through the grove,
-     Whilst I return to view my Margaret’s tomb
-     And scatter flowers on the dust I love.
+Hushed are the winds and still the evening gloom,
+Not e’en a Zephyr wanders through the grove,
+Whilst I return to view my Margaret’s tomb
+And scatter flowers on the dust I love.
 ____
 _____
 
@@ -2548,8 +2548,8 @@ eyes began to read the second stanza:
 _____
 [verse]
 ____
-    Within this narrow cell reclines her clay,
-    That clay where once...
+Within this narrow cell reclines her clay,
+That clay where once...
 ____
 _____
 
@@ -3267,15 +3267,15 @@ sang again:
 _____
 [verse]
 ____
-            I dreamt that I dwelt in marble halls
-              With vassals and serfs at my side,
-            And of all who assembled within those walls
-              That I was the hope and the pride.
+I dreamt that I dwelt in marble halls
+  With vassals and serfs at my side,
+And of all who assembled within those walls
+  That I was the hope and the pride.
 
-            I had riches too great to count; could boast
-              Of a high ancestral name,
-            But I also dreamt, which pleased me most,
-              That you loved me still the same.
+I had riches too great to count; could boast
+  Of a high ancestral name,
+But I also dreamt, which pleased me most,
+  That you loved me still the same.
 ____
 _____
 
@@ -3487,8 +3487,8 @@ does when he reads the prayers Secreto. This was the paragraph:
 
 [literal]
 ....
-               DEATH OF A LADY AT SYDNEY PARADE
-                       A PAINFUL CASE
+DEATH OF A LADY AT SYDNEY PARADE
+        A PAINFUL CASE
 ....
 
 
@@ -3677,10 +3677,10 @@ He selected one of the cards and read what was printed on it:
 
 [literal]
 ....
-      MUNICIPAL ELECTIONS
-           ————
-      ROYAL EXCHANGE WARD
-           ————
+MUNICIPAL ELECTIONS
+     ————
+ROYAL EXCHANGE WARD
+     ————
 ....
 
 Mr. Richard J. Tierney, P.L.G., respectfully solicits the favour of your
@@ -4331,8 +4331,8 @@ the piece in his mind. After a rather long pause he announced:
 
 [literal]
 ....
-                       THE DEATH OF PARNELL
-                        6th October, 1891
+THE DEATH OF PARNELL
+ 6th October, 1891
 ....
 
 
@@ -4342,50 +4342,50 @@ He cleared his throat once or twice and then began to recite:
 _____
 [verse]
 ____
-            He is dead.  Our Uncrowned King is dead.
-              O, Erin, mourn with grief and woe
-            For he lies dead whom the fell gang
-              Of modern hypocrites laid low.
-            He lies slain by the coward hounds
-              He raised to glory from the mire;
-            And Erin’s hopes and Erin’s dreams
-              Perish upon her monarch’s pyre.
-            In palace, cabin or in cot
-              The Irish heart where’er it be
-            Is bowed with woe—for he is gone
-              Who would have wrought her destiny.
-            He would have had his Erin famed,
-              The green flag gloriously unfurled,
-            Her statesmen, bards and warriors raised
-              Before the nations of the World.
-            He dreamed (alas, ’twas but a dream!)
-              Of Liberty: but as he strove
-            To clutch that idol, treachery
-              Sundered him from the thing he loved.
-            Shame on the coward, caitiff hands
-              That smote their Lord or with a kiss
-            Betrayed him to the rabble-rout
-              Of fawning priests—no friends of his.
-            May everlasting shame consume
-              The memory of those who tried
-            To befoul and smear the exalted name
-              Of one who spurned them in his pride.
-            He fell as fall the mighty ones,
-              Nobly undaunted to the last,
-            And death has now united him
-              With Erin’s heroes of the past.
-            No sound of strife disturb his sleep!
-              Calmly he rests: no human pain
-            Or high ambition spurs him now
-              The peaks of glory to attain.
-            They had their way: they laid him low.
-              But Erin, list, his spirit may
-            Rise, like the Phoenix from the flames,
-              When breaks the dawning of the day,
-            The day that brings us Freedom’s reign.
-              And on that day may Erin well
-            Pledge in the cup she lifts to Joy
-              One grief—the memory of Parnell.
+He is dead.  Our Uncrowned King is dead.
+  O, Erin, mourn with grief and woe
+For he lies dead whom the fell gang
+  Of modern hypocrites laid low.
+He lies slain by the coward hounds
+  He raised to glory from the mire;
+And Erin’s hopes and Erin’s dreams
+  Perish upon her monarch’s pyre.
+In palace, cabin or in cot
+  The Irish heart where’er it be
+Is bowed with woe—for he is gone
+  Who would have wrought her destiny.
+He would have had his Erin famed,
+  The green flag gloriously unfurled,
+Her statesmen, bards and warriors raised
+  Before the nations of the World.
+He dreamed (alas, ’twas but a dream!)
+  Of Liberty: but as he strove
+To clutch that idol, treachery
+  Sundered him from the thing he loved.
+Shame on the coward, caitiff hands
+  That smote their Lord or with a kiss
+Betrayed him to the rabble-rout
+  Of fawning priests—no friends of his.
+May everlasting shame consume
+  The memory of those who tried
+To befoul and smear the exalted name
+  Of one who spurned them in his pride.
+He fell as fall the mighty ones,
+  Nobly undaunted to the last,
+And death has now united him
+  With Erin’s heroes of the past.
+No sound of strife disturb his sleep!
+  Calmly he rests: no human pain
+Or high ambition spurs him now
+  The peaks of glory to attain.
+They had their way: they laid him low.
+  But Erin, list, his spirit may
+Rise, like the Phoenix from the flames,
+  When breaks the dawning of the day,
+The day that brings us Freedom’s reign.
+  And on that day may Erin well
+Pledge in the cup she lifts to Joy
+  One grief—the memory of Parnell.
 ____
 _____
 
@@ -7096,10 +7096,10 @@ seated ladies, sang in unison, with Mr. Browne as leader:
 _____
 [verse]
 ____
-     For they are jolly gay fellows,
-     For they are jolly gay fellows,
-     For they are jolly gay fellows,
-     Which nobody can deny.
+For they are jolly gay fellows,
+For they are jolly gay fellows,
+For they are jolly gay fellows,
+Which nobody can deny.
 ____
 _____
 
@@ -7113,8 +7113,8 @@ they sang with emphasis:
 _____
 [verse]
 ____
-     Unless he tells a lie,
-     Unless he tells a lie.
+Unless he tells a lie,
+Unless he tells a lie.
 ____
 _____
 
@@ -7124,10 +7124,10 @@ Then, turning once more towards their hostesses, they sang:
 _____
 [verse]
 ____
-     For they are jolly gay fellows,
-     For they are jolly gay fellows,
-     For they are jolly gay fellows,
-     Which nobody can deny.
+For they are jolly gay fellows,
+For they are jolly gay fellows,
+For they are jolly gay fellows,
+Which nobody can deny.
 ____
 _____
 
@@ -7323,9 +7323,9 @@ illuminated the cadence of the air with words expressing grief:
 _____
 [verse]
 ____
-    O, the rain falls on my heavy locks
-    And the dew wets my skin,
-    My babe lies cold...
+O, the rain falls on my heavy locks
+And the dew wets my skin,
+My babe lies cold...
 ____
 _____
 
