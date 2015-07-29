@@ -1,0 +1,27 @@
+_repo: Dubliners_2814
+creator:
+  author:
+    agent_name: Joyce, James
+    birthdate: 1882
+    deathdate: 1941
+    gutenberg_agent_id: '1039'
+    url: http://www.gutenberg.org/2009/agents/1039
+    wikipedia: http://en.wikipedia.org/wiki/James_Joyce
+gutenberg_bookshelf: Banned Books from Anne Haight's list
+gutenberg_issued: '2001-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2814'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- '!lcsh:Dublin (Ireland) -- Fiction'
+- '!lcc:PR'
+- '!lcsh:Short stories'
+tableOfContents: The sisters -- An encounter -- Araby -- Eveline -- After the race
+  -- Two gallants -- The boarding house -- A little cloud -- Counterparts -- Clay
+  -- A painful case -- Ivy day in the committee room -- A mother -- Grace -- The dead.
+title: Dubliners
+url: http://www.gutenberg.org/ebooks/2814
