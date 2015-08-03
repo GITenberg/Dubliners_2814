@@ -23,9 +23,9 @@ publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
 subjects:
-- '!lcc:PR'
-- '!lcsh:Short stories'
-- '!lcsh:Dublin (Ireland) -- Fiction'
+- '!lcc: PR'
+- '!lcsh: Short stories'
+- '!lcsh: Dublin (Ireland) -- Fiction'
 tableOfContents: The sisters -- An encounter -- Araby -- Eveline -- After the race
   -- Two gallants -- The boarding house -- A little cloud -- Counterparts -- Clay
   -- A painful case -- Ivy day in the committee room -- A mother -- Grace -- The dead.
