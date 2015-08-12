@@ -1,0 +1,32 @@
+language: ruby
+before_install:
+- gem install asciidoctor tilt
+script:
+- VERSION=`ruby -e "require 'yaml'; meta = YAML.load_file('metadata.yaml'); puts meta['_version'];"`
+- git clone https://github.com/gitenberg-dev/asciidoctor-htmlbook.git
+- asciidoctor -a toc,version=$VERSION -b xhtml5 -T ./asciidoctor-htmlbook/htmlbook-autogen/
+  -d book book.asciidoc -o book.html
+- git clone https://github.com/gitenberg-dev/HTMLBook
+- xsltproc -stringparam external.assets.list " " ./HTMLBook/htmlbook-xsl/epub.xsl book.html
+- cp ./HTMLBook/stylesheets/epub/epub.css OEBPS
+- cp cover.jpg OEBPS/cover.jpg
+- if test -d "./images"; then mv ./images ./OEBPS/ ;fi
+- zip -rX book.epub mimetype
+- zip -rX book.epub OEBPS/ META-INF/
+- if test -d "OEBPS/images/"; then zip -rX book.epub OEBPS/images/ ;fi 
+- mv book.epub Dubliners.epub
+branches:
+  only:
+  - master
+deploy:
+  skip_cleanup: true
+  provider: releases
+  api_key:
+    secure: g0L77CYb2sdHBls5qlsHqpeixjAuw5hLSLuKsWVjW7gz1geaVdG95w+Dk+6a7EHdJUjM4ANubcRuCyorz7XN6sl82CMxoqn9PPOcCLwl1g5cmar4cZYphZjRYxZc+/rh3RzmG1ewTIXxjgMuVWdMTJc9/pMzPkGOzeifPaoFkW6uq9IdUmbeSrMrWQwjxbx8YcD3wfoxCy/peNKu/sChuGVLFikSXdIeZicgg4WtkshDdeh9MjD7RQNDMOkXqoS+lD///tA6d4mtUvStTUd4ikLYIJvOwUz49dGEr6o2FVWZLd0rBpZF6NAQFhSPBwO+NjV//dL3toEeSH6N8jPTvwSuGcEpO61DsXqfBZCAYHAsm51IHBdrtw0ftMp+vhtEdZbGxAKk55Q6jD29+KUiwExoeAyZxIcNZ+0RhkVGi0tPlCSmRv+QdlLwTGaITvcObfadPha2uYZnkQdun65bctq9EmBRqI3BIf3F6nGEwfpILfeEXu5HLahtCqlGkJgAqzndv/OknGPyfv7Vcvz2MHLj2wrc2skHzvNirgJXHBdwA9QRWkaa/e8yfKXqRWmdSScv7CtrnrC5b6pt2cDbP/1De6o+PheyRBWOYfscAO8+WaWSrB3GAUODiFVDAR/+05xwnVSMyeK9numKaF3UGF7aQXYlaZ2OgoVdYuHDXj4=
+  file: Dubliners.epub
+  "on":
+    repo: GITenberg/Dubliners_2814
+addons:
+  apt:
+    packages:
+    - xsltproc
