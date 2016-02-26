@@ -1,5 +1,5 @@
 _repo: Dubliners_2814
-_version: 0.0.3
+_version: 0.1.0
 covers:
 - attribution: Devin, 2015
   cover_type: original
@@ -28,6 +28,7 @@ subjects:
 - '!lcc: PR'
 - '!lcsh: Short stories'
 - '!lcsh: Dublin (Ireland) -- Fiction'
+- GITenberg
 tableOfContents: The sisters -- An encounter -- Araby -- Eveline -- After the race
   -- Two gallants -- The boarding house -- A little cloud -- Counterparts -- Clay
   -- A painful case -- Ivy day in the committee room -- A mother -- Grace -- The dead.
